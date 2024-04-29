@@ -23,6 +23,6 @@ export const links = [
         label: 'LinkedIn',
         image: '/image/linked-in-icon.webp',
         isTargetBlank: true,
-        link: 'https://www.linkedin.com/in/sasikala-rangasamy-3656262b7/'
+        link: 'https://www.linkedin.com/in/sasikala-rangasamy/'
     }
 ];
